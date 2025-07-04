@@ -16,7 +16,8 @@ The returned dictionary should follow this format:
 }
 
 
-# For Examplecalculate([0,1,2,3,4,5,6,7,8]) should return:
+##For Example
+calculate([0,1,2,3,4,5,6,7,8]) should return:
 
 {
   'mean': [[3.0, 4.0, 5.0], [1.0, 4.0, 7.0], 4.0],
